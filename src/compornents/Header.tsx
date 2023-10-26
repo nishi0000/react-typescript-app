@@ -1,6 +1,6 @@
 import "./header.css";
-import background from "./background.jpg";
-import profile from "./profile.jpg";
+import background from "../image/background.jpg";
+import profile from "../image/profile.jpg";
 
 export const Header = () => {
   return (

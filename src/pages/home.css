@@ -1,0 +1,18 @@
+
+.profile-container-top {
+    width: 600px;
+    margin: 48px auto 0;
+}
+
+.profile-container {
+    width: 700px;
+    margin: 48px auto 0;
+}
+
+
+.profile-icon-image {
+    width: 100px;
+    border-radius: 50%;
+    margin-right: 32px;
+    float:left;
+}

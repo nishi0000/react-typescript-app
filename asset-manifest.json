@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/react-typescript-app/static/css/main.c8f2d375.css",
-    "main.js": "/react-typescript-app/static/js/main.c322a6dd.js",
+    "main.css": "/react-typescript-app/static/css/main.b3872daa.css",
+    "main.js": "/react-typescript-app/static/js/main.789973fb.js",
     "static/js/787.6bde3dcb.chunk.js": "/react-typescript-app/static/js/787.6bde3dcb.chunk.js",
     "static/media/profile.jpg": "/react-typescript-app/static/media/profile.29ff36689610eec5edbb.jpg",
     "static/media/background.jpg": "/react-typescript-app/static/media/background.19bdd2f229ec11d969b2.jpg",
     "static/media/icon2.png": "/react-typescript-app/static/media/icon2.775ee385f5726f309f96.png",
     "static/media/icon1.png": "/react-typescript-app/static/media/icon1.0db51f00b289c7ecf3e8.png",
     "index.html": "/react-typescript-app/index.html",
-    "main.c8f2d375.css.map": "/react-typescript-app/static/css/main.c8f2d375.css.map",
-    "main.c322a6dd.js.map": "/react-typescript-app/static/js/main.c322a6dd.js.map",
+    "main.b3872daa.css.map": "/react-typescript-app/static/css/main.b3872daa.css.map",
+    "main.789973fb.js.map": "/react-typescript-app/static/js/main.789973fb.js.map",
     "787.6bde3dcb.chunk.js.map": "/react-typescript-app/static/js/787.6bde3dcb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c8f2d375.css",
-    "static/js/main.c322a6dd.js"
+    "static/css/main.b3872daa.css",
+    "static/js/main.789973fb.js"
   ]
 }
